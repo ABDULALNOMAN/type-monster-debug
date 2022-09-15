@@ -4,7 +4,7 @@
 }
 body{
     background-color: gainsboro;
-    width: 1220px;
+    max-width: 1220px;
 }
 dl{
     margin: 20px;
